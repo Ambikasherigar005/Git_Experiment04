@@ -1,0 +1,14 @@
+Remote changes by another user
+Added remote file 
+After this, GitHub has a new commit.
+So now:
+LOCAL
+Initial commit
+     |
+Added local file
+
+GITHUB
+Initial commit
+    |
+Added remote file
+This is called divergence
